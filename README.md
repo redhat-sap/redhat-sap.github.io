@@ -1,6 +1,6 @@
 # [RedHat SAP Community Project](https://redhat-sap.github.io)
 
-In the github repository you will find community projects and demos around SAP and its products.
+In the [github repository](https://github.com/redhat-sap) you will find community projects and demos around SAP and its products.
 The projects intend enhancing experience with SAP software on Red Hat products, help to create customer demos and much more.
 
 
@@ -35,4 +35,4 @@ The repository contains helper tools to configure [OpenShift for use with SAP Da
 
 ## How can I participate?
 
-Please join this community, use these roles, playbooks and utilities or just leave your feedback and wishes for development [here](https://github.com/redhat-sap/redhat-sap.github.io/issues)
+Please join this community, use these roles, playbooks and utilities or just leave your feedback and wishes for development [here](https://github.com/redhat-sap/redhat-sap.github.io/issues) by opening a new issue.
