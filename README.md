@@ -29,12 +29,10 @@ While Red Hat is providing a lot of [system roles to configure linux systems](ht
 
 You can install the roles from [Ansible Galaxy](https://galaxy.ansible.com/redhat_sap)
 
-<hr>
 ## SAP Data Intelligence and SAP Commerce
 
 The repository contains helper tools to configure [OpenShift for use with SAP Data Intelligence](https://github.com/redhat-sap/sap-data-intelligence) and provides an [Operator for SAP Commerce](https://github.com/redhat-sap/sap-commerce-operator).
 
-<hr>
 ## How can I participate?
 
 Please join this community, use these roles, playbooks and utilities or just leave your feedback and wishes for development [here](https://github.com/redhat-sap/redhat-sap.github.io/issues)
